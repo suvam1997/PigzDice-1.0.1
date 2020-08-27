@@ -14,14 +14,14 @@ To play the game click here: https://suvam1997.github.io/PigzDice-1.0.1/
 
 ### Version 1.0.1 features ###
 
-- 1 vs 1 Gamming
-- 1 vs Computer Gamming
+- Play with friend
+- Play with Computer
 - Better features
 - Easy UI
 
 ### Updates and Changes: ###
 
-- Play bot Gamming
+- Play against Computer
 - "ROLL DICE" and "ADD & PASS" hide when computer is playing
 
 ----------
