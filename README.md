@@ -20,5 +20,5 @@ PigzDice_1.0.1
 
 ### Updates and Changes: ###
 
-- 1 vs bot Gamming
+- Play bot Gamming
 - "ROLL DICE" and "ADD & PASS" hide when computer is playing
