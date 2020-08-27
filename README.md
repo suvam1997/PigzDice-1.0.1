@@ -27,6 +27,8 @@ https://suvam1997.github.io/PigzDice-1.0.1/
 Application Preview
 =====
 
+![Preview_PigxDice_1 0 1](https://user-images.githubusercontent.com/53318366/91443304-c9651100-e890-11ea-98cb-223f69455a7e.gif)
+
 Code Preview
 ====
 
