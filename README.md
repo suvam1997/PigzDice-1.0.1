@@ -4,7 +4,6 @@ PigzDice_1.0.1
 
 To play the game click here: https://suvam1997.github.io/PigzDice-1.0.1/
 
-
 ### GAME RULES ###
 
 - The game has 2 players, playing in rounds
@@ -25,25 +24,28 @@ To play the game click here: https://suvam1997.github.io/PigzDice-1.0.1/
 - Play bot Gamming
 - "ROLL DICE" and "ADD & PASS" hide when computer is playing
 
-Application Preview
+----------
+
+A. Application Preview
 =====
 
 ![Preview_PigxDice_1 0 1](https://user-images.githubusercontent.com/53318366/91453258-24046a00-e89d-11ea-8f1e-4f87dcd0ad76.gif)
 
-Code Preview
+B. Code Preview
 ====
 
-### index.html ###
+### 1. index.html ###
+
 ![index](https://user-images.githubusercontent.com/53318366/91442671-d59c9e80-e88f-11ea-92cd-e548fd62079e.png)
 
-### style.css ###
+### 2. style.css ###
 
 ![style](https://user-images.githubusercontent.com/53318366/91442678-d7666200-e88f-11ea-8715-c6e13609b86e.png)
 
-### app.js ###
+### 3. app.js ###
 
 ![app](https://user-images.githubusercontent.com/53318366/91442652-cf0e2700-e88f-11ea-9a8e-2011a0c1a0eb.png)
 
-### query.js ###
+### 4. query.js ###
 
 ![quey](https://user-images.githubusercontent.com/53318366/91442676-d6cdcb80-e88f-11ea-9db2-b3b73626bcff.png)
