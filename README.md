@@ -23,3 +23,24 @@ https://suvam1997.github.io/PigzDice-1.0.1/
 
 - Play bot Gamming
 - "ROLL DICE" and "ADD & PASS" hide when computer is playing
+
+Application Preview
+=====
+
+Code Preview
+====
+
+### index.html ###
+![index](https://user-images.githubusercontent.com/53318366/91442671-d59c9e80-e88f-11ea-92cd-e548fd62079e.png)
+
+### style.css ###
+
+![style](https://user-images.githubusercontent.com/53318366/91442678-d7666200-e88f-11ea-8715-c6e13609b86e.png)
+
+### app.js ###
+
+![app](https://user-images.githubusercontent.com/53318366/91442652-cf0e2700-e88f-11ea-9a8e-2011a0c1a0eb.png)
+
+### query.js ###
+
+![quey](https://user-images.githubusercontent.com/53318366/91442676-d6cdcb80-e88f-11ea-9db2-b3b73626bcff.png)
