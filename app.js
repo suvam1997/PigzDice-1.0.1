@@ -38,10 +38,9 @@ function renamePlayer1() {
     if (computer === 0) {
         let player2 = prompt("Change PLAYER 2 name");
         player2 ? document.getElementById("player-name-1").innerHTML = player2 : document.querySelector("#player-name-1").innerHTML = "PLAYER 2";
-        return true;
     } else {
         let player2 = prompt("Change COMPUTER's name");
-        document.getElementById("player-name-1").innerHTML = player2;
+        player2 ? document.getElementById("player-name-1").innerHTML = player2 : document.querySelector("#player-name-1").innerHTML = "COMPUTER";
     }
 
 }
