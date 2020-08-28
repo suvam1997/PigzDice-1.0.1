@@ -3,8 +3,8 @@
 GAME RULES:
 
 - The game has 2 players, playing in rounds
-- In each turn, a player rolls a dice as many times as he whishes. Each result get added to his CURRENT score
-- BUT, if the player rolls a 1, all his CURRENT score gets lost. After that, it's the next player's turn
+- In each turn, a player rolls dice as many times as he/she wishes. Each result get added to his/her CURRENT score
+- BUT, if the player rolls a 1, all his/her CURRENT score gets lost. After that, it's the next player's turn
 - The player can choose to 'ADD & PASS', which means that his CURRENT score gets added to his MAIN score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 
@@ -14,8 +14,8 @@ GAME RULES:
 alert(`GAME RULES:
 
 - The game has 2 players, playing in rounds
-- In each turn, a player rolls a dice as many times as he whishes. Each result get added to his CURRENT score
-- BUT, if the player rolls a 1, all his CURRENT score gets lost. After that, it's the next player's turn
+- In each turn, a player rolls dice as many times as he/she wishes. Each result get added to his/her CURRENT score
+- BUT, if the player rolls a 1, all his/her CURRENT score gets lost. After that, it's the next player's turn
 - The player can choose to 'ADD & PASS', which means that his CURRENT score gets added to his MAIN score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game`);
 
@@ -103,7 +103,7 @@ document.getElementById('btn-roll').addEventListener("click", () => {
                 document.getElementById("current-score-0").textContent = currentScore;
                 document.querySelector(".player-box-0").classList.remove("active");
                 document.querySelector(".player-box-1").classList.add("active");
-                limit = Math.floor((Math.random() * 5)) + 1;
+                limit = Math.floor((Math.random() * 5)) + 2;
                 startClicker();
             }
         } else {
@@ -165,7 +165,7 @@ document.getElementById('btn-add-pass').addEventListener("click", () => {
             document.querySelector(".player-box-1").classList.add("active");
             currentScore = 0;
             count = 0;
-            limit = Math.floor((Math.random() * 5)) + 1;
+            limit = Math.floor((Math.random() * 5)) + 2;
             startClicker();
         } else {
             mainScore[1] += currentScore;
