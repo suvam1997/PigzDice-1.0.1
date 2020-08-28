@@ -24,6 +24,10 @@ To play the game click here: https://suvam1997.github.io/PigzDice-1.0.1/
 - Play against Computer
 - "ROLL DICE" and "ADD & PASS" hide when computer is playing
 
+### View Previous Version ###
+
+- https://github.com/suvam1997/PigzDice-1.0.0
+
 ----------
 
 A. Application Preview
